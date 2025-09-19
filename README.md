@@ -17,7 +17,6 @@ A production-ready Retrieval-Augmented Generation (RAG) system that combines doc
 - [Usage](#usage)
 - [API Documentation](#api-documentation)
 - [Project Structure](#project-structure)
-- [Documentation](#documentation)
 
 ## Overview
 
@@ -357,7 +356,7 @@ research-assistant-rag-2/
 ├── ingest.py                  # Document ingestion utilities
 └──  requirements.txt           # Root dependencies
 ```
-### Key Implementation Details
+## Key Implementation Details
 
 - **RAG Pipeline**: Document processing, embedding generation, vector storage, and retrieval
 - **Agent Architecture**: ReAct pattern with tool selection and orchestration
