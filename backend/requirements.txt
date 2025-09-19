@@ -14,3 +14,4 @@ unstructured
 sentence-transformers
 duckduckgo-search
 python-dotenv
+langchain-huggingface
