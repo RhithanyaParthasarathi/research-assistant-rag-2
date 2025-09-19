@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+langchain
+langchain-google-genai
+langchain_community
+langchain-text-splitters
+langchain-qdrant
+qdrant-client
+pypdf
+python-docx
+python-pptx
+unstructured
+sentence-transformers
+duckduckgo-search
+python-dotenv
