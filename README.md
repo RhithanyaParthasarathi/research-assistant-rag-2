@@ -356,7 +356,7 @@ research-assistant-rag-2/
 ├── app.py                     # Root application file
 ├── ingest.py                  # Document ingestion utilities
 └──  requirements.txt           # Root dependencies
-
+```
 ### Key Implementation Details
 
 - **RAG Pipeline**: Document processing, embedding generation, vector storage, and retrieval
