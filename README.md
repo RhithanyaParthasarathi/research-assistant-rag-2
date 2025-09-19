@@ -28,7 +28,7 @@ research-assistant-rag-2/
 
 Installation
 Clone the repository
-git clone https://github.com/your-username/research-assistant-rag-2.git
+git clone https://github.com/RhithanyaParthasarathi/research-assistant-rag-2?authuser=0
 cd research-assistant-rag-2
 
 Setup Backend (FastAPI)
