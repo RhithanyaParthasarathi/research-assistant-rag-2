@@ -3,7 +3,8 @@ import requests
 import uuid
 
 # --- CONFIGURATION ---
-BACKEND_URL = "http://127.0.0.1:8080"
+#BACKEND_URL = "http://127.0.0.1:8080"
+BACKEND_URL ="https://research-assistant-rag-2.onrender.com"
 
 # --- API COMMUNICATION FUNCTIONS ---
 def ingest_files_api(session_id, files):
